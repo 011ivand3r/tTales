@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lifestyle on tTales</title>
+    <link>http://www.example.com/tTales/tags/lifestyle/</link>
+    <description>Recent content in lifestyle on tTales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Apr 2020 08:58:27 +0530</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tTales/tags/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Borussia Dortmund</title>
+      <link>http://www.example.com/tTales/posts/bvb09/</link>
+      <pubDate>Sat, 18 Apr 2020 08:58:27 +0530</pubDate>
+      
+      <guid>http://www.example.com/tTales/posts/bvb09/</guid>
+      <description>This pandemic is putting things in perspective. We finally understand that an economy predicated on exponential growth isn’t a healthy economy—it’s a vulnerable one. If an economy collapses when people buy only their essentials, then it was never as strong as we pretended.
+When it comes to simple living, the most recent minimalist movement gained popularity online in the aftermath of the 2008 crash. People were yearning for a solution to their newly discovered problem of debt and overconsumption.</description>
+    </item>
+    
+    <item>
+      <title>Harry Potter</title>
+      <link>http://www.example.com/tTales/posts/harry-potter/</link>
+      <pubDate>Sat, 18 Apr 2020 08:58:27 +0530</pubDate>
+      
+      <guid>http://www.example.com/tTales/posts/harry-potter/</guid>
+      <description>This pandemicis putting things in perspective. We finally understand that an economy predicated on exponential growth isn’t a healthy economy—it’s a vulnerable one. If an economy collapses when people buy only their essentials, then it was never as strong as we pretended.
+When it comes to simple living, the most recent minimalist movement gained popularity online in the aftermath of the 2008 crash. People were yearning for a solution to their newly discovered problem of debt and overconsumption.</description>
+    </item>
+    
+    <item>
+      <title>Minimalism</title>
+      <link>http://www.example.com/tTales/posts/why-i-love-minimalism/</link>
+      <pubDate>Sat, 18 Apr 2020 08:58:27 +0530</pubDate>
+      
+      <guid>http://www.example.com/tTales/posts/why-i-love-minimalism/</guid>
+      <description>This pandemic is putting things in perspective. We finally understand that an economy predicated on exponential growth isn’t a healthy economy—it’s a vulnerable one. If an economy collapses when people buy only their essentials, then it was never as strong as we pretended.
+When it comes to simple living, the most recent minimalist movement gained popularity online in the aftermath of the 2008 crash. People were yearning for a solution to their newly discovered problem of debt and overconsumption.</description>
+    </item>
+    
+  </channel>
+</rss>

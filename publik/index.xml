@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tTales</title>
+    <link>http://www.example.com/tTales/</link>
+    <description>Recent content on tTales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Apr 2020 08:58:27 +0530</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/tTales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Now</title>
+      <link>http://www.example.com/tTales/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tTales/now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/tTales/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tTales/about/</guid>
+      <description>I am a Physics undergraduate student at IIT Kharagpur. I have interest in Programming, Open Source, Physics and Gadgets. My other name is Aditya Vikram Singh.
+FAQs Why xypnox? Why Blag? How is this blag made? This blag is made through a static site generator called hugo. The theme I am currently using is called blag-theme.
+ You can find my website/portfolio at xypnox.com
+You can reach me here:
+ Github Twitter Telegram &amp;lt;== text me here Instagram Facebook  You can also email me at xypnox @ gmail .</description>
+    </item>
+    
+    <item>
+      <title>Borussia Dortmund</title>
+      <link>http://www.example.com/tTales/posts/bvb09/</link>
+      <pubDate>Sat, 18 Apr 2020 08:58:27 +0530</pubDate>
+      
+      <guid>http://www.example.com/tTales/posts/bvb09/</guid>
+      <description>This pandemic is putting things in perspective. We finally understand that an economy predicated on exponential growth isn’t a healthy economy—it’s a vulnerable one. If an economy collapses when people buy only their essentials, then it was never as strong as we pretended.
+When it comes to simple living, the most recent minimalist movement gained popularity online in the aftermath of the 2008 crash. People were yearning for a solution to their newly discovered problem of debt and overconsumption.</description>
+    </item>
+    
+    <item>
+      <title>Harry Potter</title>
+      <link>http://www.example.com/tTales/posts/harry-potter/</link>
+      <pubDate>Sat, 18 Apr 2020 08:58:27 +0530</pubDate>
+      
+      <guid>http://www.example.com/tTales/posts/harry-potter/</guid>
+      <description>This pandemicis putting things in perspective. We finally understand that an economy predicated on exponential growth isn’t a healthy economy—it’s a vulnerable one. If an economy collapses when people buy only their essentials, then it was never as strong as we pretended.
+When it comes to simple living, the most recent minimalist movement gained popularity online in the aftermath of the 2008 crash. People were yearning for a solution to their newly discovered problem of debt and overconsumption.</description>
+    </item>
+    
+    <item>
+      <title>Minimalism</title>
+      <link>http://www.example.com/tTales/posts/why-i-love-minimalism/</link>
+      <pubDate>Sat, 18 Apr 2020 08:58:27 +0530</pubDate>
+      
+      <guid>http://www.example.com/tTales/posts/why-i-love-minimalism/</guid>
+      <description>This pandemic is putting things in perspective. We finally understand that an economy predicated on exponential growth isn’t a healthy economy—it’s a vulnerable one. If an economy collapses when people buy only their essentials, then it was never as strong as we pretended.
+When it comes to simple living, the most recent minimalist movement gained popularity online in the aftermath of the 2008 crash. People were yearning for a solution to their newly discovered problem of debt and overconsumption.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://www.example.com/tTales/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/tTales/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
