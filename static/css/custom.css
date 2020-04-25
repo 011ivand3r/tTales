@@ -19,8 +19,8 @@ h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
-.widget-title{
-    font-size: 2.2rem;
+.widget-title {
+  font-size: 2.2rem;
 }
 
 body,
@@ -42,9 +42,16 @@ var {
 .home .widget-recent_posts .item {
   display: inherit;
   margin-top: 2rem;
+  color: #263238;
 }
 
 .section .list-container .item {
+  display: inherit;
+  margin-top: 2rem;
+  color: #263238;
+}
+
+.taxonomy .site .main .content .list-container .list .item {
   display: inherit;
   margin-top: 2rem;
   color: #263238;
@@ -62,11 +69,13 @@ var {
   color: #6f706f;
 }
 
-.desc, .copyright {
+.desc,
+.copyright {
   color: #6f706f;
 }
 
-.entry-meta .posted-on, .reading-time{
+.entry-meta .posted-on,
+.reading-time {
   color: #6f706f;
 }
 
@@ -74,13 +83,15 @@ var {
   font-family: 'Lora', serif;
 }
 
-.entry-content h2, h3, h4{
+.entry-content h2,
+h3,
+h4 {
   font-size: 2.2rem;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
   body {
-      font-size: 1.1rem;
+    font-size: 1.1rem;
   }
 
   h1,
@@ -91,29 +102,33 @@ var {
     font-size: 2.3rem;
   }
 
-  .entry-content h2, h3{
+  .entry-content h2,
+  h3 {
     font-size: 1.8rem;
   }
 }
 
-.site-title, h1 {
+.site-title,
+h1 {
   font-size: 2.4em;
 }
 
-.entry-content p{
+.entry-content p {
   font-size: 1.15rem;
 }
 
-.entry-content blockquote p{
+.entry-content blockquote p {
   color: #8a8d8a;
   font-size: 1.165em;
 }
 
-.container .item, .item-current {
+.container .item,
+.item-current {
   font-family: 'Montserrat', sans-serif;
 }
 
-.home .header-info .site-title, h1 {
+.home .header-info .site-title,
+h1 {
   font-size: 3rem;
   font-weight: 900;
 }
