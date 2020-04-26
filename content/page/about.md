@@ -1,6 +1,6 @@
 ---
 title: About
-description: Me & tTales.
+description: Me & tTales
 menu: main
 weight: -70
 comments: false
