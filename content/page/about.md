@@ -6,31 +6,20 @@ weight: -70
 comments: false
 ---
 
-I am a Physics undergraduate student at IIT Kharagpur. I have interest in
-Programming, Open Source, Physics and Gadgets. My other name is Aditya Vikram Singh.
+Hey, I'm **Hans Ollivander (Han5 011ivand3r)**. I am a student and creator. As a student, I like diving deep into my topics of interest. And by creator, I don't mean making magic wands. I mean creating doodles, writing and making silly softwares.
 
-### FAQs
+I am passionate about human space exploration, machine learning and visual design. I spend a lot of my time thinking, what makes humans the way they are. I read books and articles on them. And talk to people who share those interests (Not a lot! So why not get in touch!).
 
-#### [Why xypnox?](../why-xypnox)
+[HipHop](https://open.spotify.com/playlist/511WtyKy6Ev7tn1kxUQ8sU?si=kbQezi1pRDG8nEXbWc8BXQ) and Indian classical instrumentals populate most of my playlist.
 
-#### [Why Blag?](https://xkcd.com/148/)
+Recently I have started to enjoy running and playing chess. I hope to participate in some events in future. And of course, I sleep a lot.
 
-#### How is this blag made?
+___
 
-This blag is made through a static site generator called hugo. The theme I am currently using is called [blag-theme](https://github.com/xypnox/blag-theme).
+Enough about me. **tTales** is all about dumping my thoughts and opinions into one place on the internet.
 
----
+tTales is created with HUGO. The theme I'm using is [minimo](https://themes.gohugo.io/minimo/). I customized it as per my needs, and it's currently hosted on [GitHub](https://github.com/han5-011ivand3r/tTales). The reason I chose minimo over other themes is the search bar and obviously the UI :heart_eyes:.
 
-You can find my website/portfolio at [xypnox.com](https://www.xypnox.com/)
+Check out the [HUGO](https://gohugo.io/) site. They have hundreds of exciting themes, and it's built on [Go](https://en.wikipedia.org/wiki/Go_(programming_language)). So, it's [faster](https://gohugo.io/about/what-is-hugo/#how-fast-is-hugo) than other static site generators and very easy to set up. Now that I’ve justified my choices, thanks for visiting my website!
 
-You can reach me here:
-
-- [Github](https://github.com/xypnox/)
-- [Twitter](https://twitter.com/xypnox/)
-- [Telegram](https://t.me/xypnox) <== text me here
-- [Instagram](https://instagram.com/xypnox/)
-- [Facebook](https://facebook.com/xypnox/)
-
-You can also email me at xypnox @ gmail . com (Be smart and remove those spaces ;)) or me @ xypnox.com
-
-This blog is Open Source and the code is availabe at [Github](https://github.com/xypnox/blag/).
+Get in touch using any of the links in the footer!
