@@ -10,7 +10,7 @@ Hey, I'm **Hans Ollivander (Han5 011ivand3r)**. I am a student and creator. As a
 
 I am passionate about human space exploration, machine learning and visual design. I spend a lot of my time thinking, what makes humans the way they are. I read books and articles on them. And talk to a lot of people about them (Not as much I want to! So why not get in touch!).
 
-[HipHop](https://open.spotify.com/playlist/511WtyKy6Ev7tn1kxUQ8sU?si=kbQezi1pRDG8nEXbWc8BXQ) and Indian classical instrumentals populate most of my playlist.
+[HipHop](https://open.spotify.com/playlist/511WtyKy6Ev7tn1kxUQ8sU?si=kbQezi1pRDG8nEXbWc8BXQ) and [Indian classical instrumentals](https://www.youtube.com/playlist?list=PLGOFan55ulkf5j2-7GA_jm0DlWiHwMXTy) populate most of my playlist.
 
 Recently I have started to enjoy running and playing chess. I hope to participate in some events in future. And of course, I sleep a lot.
 
