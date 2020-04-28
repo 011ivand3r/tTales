@@ -18,7 +18,7 @@ Apart from all that, just trying to keep up with the quizzes and assignments.
 
 ## Tranieren
 
-Generally, I prefer running with a bit of stretching. But under current circumstances, I'm just doing some home workout. Here's an example of what I'm doing:
+Generally, I prefer running with a bit of stretching. But under current circumstances, I'm just doing some home workout. Here's an example of what I do:
 
 - Warm-up
 - Squats
