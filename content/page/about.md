@@ -8,7 +8,7 @@ comments: false
 
 Hi, I'm **Hans Ollivander (Han5 011ivand3r)**. I am a student and dreamer. As a student, I'm an ardent knowledge seeker. And a dreamer, because that's where freedom is.
 
-I am passionate about human space exploration, machine learning and storytelling. I spend a lot of my time thinking, what makes humans the way they are. I consume books, articles, podcasts and documentaries on them. And talk to people about them (Not as much I want to! So why not get in touch!).
+I am passionate about human space exploration, machine learning and storytelling. I often find myself thinking, why are humans the way they are. I consume books, articles, podcasts and documentaries on them. And talk to people about them (Not as much I want to! So why not get in touch!).
 
 [HipHop](https://open.spotify.com/playlist/511WtyKy6Ev7tn1kxUQ8sU?si=kbQezi1pRDG8nEXbWc8BXQ) and [Indian classical instrumentals](https://www.youtube.com/playlist?list=PLGOFan55ulkf5j2-7GA_jm0DlWiHwMXTy) populate most of my playlist.
 
