@@ -6,9 +6,9 @@ weight: -70
 comments: false
 ---
 
-Hey, I'm **Hans Ollivander (Han5 011ivand3r)**. I am a student and creator. As a student, I like diving deep into my topics of interest. And by creator, I don't mean making magic wands. I mean creating doodles, writing and making silly softwares.
+Hi, I'm **Hans Ollivander (Han5 011ivand3r)**. I am a student and creator. As a student, I'm an ardent knowledge seeker. And by creator, I don't mean making magic wands. Sometimes I express my thoughts through doodles or writings. That's all. And I'll be dishonest to myself if I don't say, I'm a dreamer.
 
-I am passionate about human space exploration, machine learning and visual design. I spend a lot of my time thinking, what makes humans the way they are. I read books and articles on them. And talk to a lot of people about them (Not as much I want to! So why not get in touch!).
+I am passionate about human space exploration, machine learning and storytelling. I spend a lot of my time thinking, what makes humans the way they are. I read books and articles. And talk to people about them (Not as much I want to! So why not get in touch!).
 
 [HipHop](https://open.spotify.com/playlist/511WtyKy6Ev7tn1kxUQ8sU?si=kbQezi1pRDG8nEXbWc8BXQ) and [Indian classical instrumentals](https://www.youtube.com/playlist?list=PLGOFan55ulkf5j2-7GA_jm0DlWiHwMXTy) populate most of my playlist.
 

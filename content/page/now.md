@@ -8,13 +8,13 @@ comments: false
 
 Staying home and avoiding Covid-19.
 
-And trying to stay away from negative news channels, as much as possible. Everyone has some agenda. Which is just sickening!
+And trying to stay away from negative news channels, as much as possible. Everyone has some agenda of their own. Everyone wants to prove that their handling of the pandemic is somehow better than all others. It's just sickening!
 
 ## Hauptfokus
 
 I am working on a piece of software that will be able to make videos by itself (only a specific type of video). I'm also taking an online course by Jeremy Howard, [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml).
 
-Apart from all that, just trying to keep up with the quizzes and assignments. Which is painstakingly hard in this lockdown!
+Apart from all that, just trying to keep up with the quizzes and assignments.
 
 ## Tranieren
 
