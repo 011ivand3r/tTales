@@ -22,6 +22,6 @@ tTales is created with HUGO. The theme I'm using is [minimo](https://themes.gohu
 
 Check out the [HUGO](https://gohugo.io/) site. They have hundreds of exciting themes, and it's built on [Go](https://en.wikipedia.org/wiki/Go_(programming_language)). So, it's [faster](https://gohugo.io/about/what-is-hugo/#how-fast-is-hugo) than other static site generators and very easy to set up. Now that I’ve justified my choices, thanks for visiting my website!
 
-Last update: April 28, 2020
-
 Get in touch using any of the links in the footer!
+
+Last update: April 28, 2020
