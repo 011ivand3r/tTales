@@ -16,21 +16,6 @@ I am working on a piece of software that will be able to make videos by itself (
 
 Apart from all that, just trying to keep up with the quizzes and assignments.
 
-## Tranieren
-
-Generally, I prefer running with a bit of stretching. But under current circumstances, I'm just doing some home workout. Here's an example of what I do:
-
-- Warm-up
-- Squats
-- Jumping lunges
-- Russian twists
-- Single-leg glute bridges
-- Plank (normal and side)
-- Leg raises (normal and side)
-- Cooldown stretches
-
-After that, lot's of water :sweat:.
-
 ## Ich lese
 
 [**The Fellowship of the Ring:**](https://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring) This is the first book of The Lord of the Rings series, by J. R. R. Tolkien obviously. I have watched the Hobbit series of movies. But that's all I know about Middle Earth. I hope by the time lockdown ends, I'm ready to watch the films.
