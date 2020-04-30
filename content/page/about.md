@@ -8,7 +8,7 @@ comments: false
 
 Hi, I'm **Hans Ollivander (Han5 011ivand3r)**. I am a student and dreamer. As a student, I ask questions and seek for digestible answers. Generally, it is followed by me trying to contradict my brain with wrong answers. And a dreamer, because that's where freedom is.
 
-I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the fickleness of carbon-based life on planet Earth. I consume books, articles, podcasts and documentaries on them. And talk to people about them (Not as much I want to! So why not get in touch!).
+I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth. I consume books, articles, podcasts and documentaries on them. And talk to people about them (Not as much I want to! So why not get in touch!).
 
 Recently I have started to enjoy running and playing chess. I hope to participate in some events in future. And of course, I sleep a lot.
 
