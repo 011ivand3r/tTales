@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://han5-011ivand3r.github.io/tTales/es/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://han5-011ivand3r.github.io/tTales/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://han5-011ivand3r.github.io/tTales/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://han5-011ivand3r.github.io/tTales/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://han5-011ivand3r.github.io/tTales/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://han5-011ivand3r.github.io/tTales/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://han5-011ivand3r.github.io/tTales/es/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://han5-011ivand3r.github.io/tTales/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://han5-011ivand3r.github.io/tTales/es/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://han5-011ivand3r.github.io/tTales/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://han5-011ivand3r.github.io/tTales/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://han5-011ivand3r.github.io/tTales/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://han5-011ivand3r.github.io/tTales/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://han5-011ivand3r.github.io/tTales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://han5-011ivand3r.github.io/tTales/es/"
+                />
+  </url>
+  
+</urlset>
