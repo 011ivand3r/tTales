@@ -10,7 +10,7 @@ Hi, I'm **Hans Ollivander (Han5 011ivand3r)**. I am a student and dreamer. As a 
 
 I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth. I consume books, articles, podcasts and documentaries on them. And talk to people about them (Not as much I want to! So why not get in touch!).
 
-I enjoy running and playing chess. Although, I'm quite a noob at both. But, I hope to participate in some events in future. And of course, I sleep a lot.
+I enjoy running and playing chess. Although, I'm quite a novice at both. But, I hope to participate in some events in future. And of course, I sleep a lot.
 ___
 
 Enough about me. **tTales** is all about dumping my thoughts and opinions into one place on the internet.
