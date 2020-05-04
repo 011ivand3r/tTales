@@ -114,9 +114,5 @@ lang = "en"
 languageName = "English"
 weight = 1
 
-[languages.es]
-lang = "es"
-languageName = "Spanish"
-weight = 1
 
 publishDir = "docs"
