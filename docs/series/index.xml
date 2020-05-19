@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on tTales</title>
-    <link>https://han5-011ivand3r.github.io/tTales/series/</link>
+    <link>https://011ivand3r.github.io/tTales/series/</link>
     <description>Recent content in Series on tTales</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://han5-011ivand3r.github.io/tTales/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://011ivand3r.github.io/tTales/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
