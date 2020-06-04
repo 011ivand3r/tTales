@@ -34,7 +34,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "han5 0011ivand3r"
+holder = "han5  011ivand3r"
 startYear = "2020"
 suffix = ""
 
@@ -73,7 +73,7 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-email = "hanshubham@gmail.com"
+email = "sooperfanbvb@gmail.com"
 github = "han5-011ivand3r"
 instagram = "han5_011ivand3r"
 twitter = "han5_011ivand3r"
