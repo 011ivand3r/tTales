@@ -15,7 +15,7 @@ ___
 
 Enough about me. **tTales** is all about dumping my thoughts and opinions into one place on the internet.
 
-tTales is created with HUGO. The theme I'm using is [minimo](https://themes.gohugo.io/minimo/). I customized it as per my needs, and it's currently hosted on [GitHub](https://github.com/han5-011ivand3r/tTales). The reason I chose minimo over other themes is the search bar and obviously the UI :heart_eyes:.
+tTales is created with HUGO. The theme I'm using is [minimo](https://themes.gohugo.io/minimo/). I customized it as per my needs, and it's currently hosted on [GitHub](https://github.com/011ivand3r/tTales). The reason I chose minimo over other themes is the search bar and obviously the UI :heart_eyes:.
 
 Check out the [HUGO](https://gohugo.io/) site. They have hundreds of exciting themes, and it's built on [Go](https://en.wikipedia.org/wiki/Go_(programming_language)). So, it's [faster](https://gohugo.io/about/what-is-hugo/#how-fast-is-hugo) than other static site generators and very easy to set up. Now that I’ve justified my choices, thanks for visiting my website!
 
