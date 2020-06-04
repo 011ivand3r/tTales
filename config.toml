@@ -73,11 +73,11 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-email = "sooperfanbvb@gmail.com"
-github = "han5-011ivand3r"
-instagram = "han5_011ivand3r"
-twitter = "han5_011ivand3r"
-youtube = "UC7sDyB_GMt2-T2HmHswEvjw"
+email = "han5.011ivand3r@gmail.com"
+github = "011ivand3r"
+instagram = "011ivand3r"
+twitter = "011ivand3r"
+youtube = "UCaAyf7QcsnIT7jGUaBDzbbw"
 
 [params.comments]
 enable = true
