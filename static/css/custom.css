@@ -133,5 +133,5 @@ h1 {
 }
 
 .sep-after:after, .sep-before:before {
-  border-bottom: .195em solid #bdbdbd;
+  border-bottom: .175em solid #bdbdbd;
 }
