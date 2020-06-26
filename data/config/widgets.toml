@@ -1,7 +1,7 @@
 [about]
 title = " "
 description = " "
-logo = "/imgs/logo-1.png"
+logo = "/imgs/logo_min_black.png"
 
 [breadcrumbs] 
 separator = "/"
