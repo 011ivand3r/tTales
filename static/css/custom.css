@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Montserrat:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Oxygen:wght@400;700&display=swap');
 
 h1,
 h2,
@@ -16,7 +15,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oxygen', sans-serif;
 }
 
 .widget-title {
@@ -80,7 +79,7 @@ var {
 }
 
 .entry-content {
-  font-family: 'Lora', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .entry-content h2,
