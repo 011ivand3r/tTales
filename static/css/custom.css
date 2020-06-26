@@ -131,3 +131,7 @@ h1 {
   font-size: 3rem;
   font-weight: 900;
 }
+
+.sep-after:after, .sep-before:before {
+  border-bottom: .195em solid #bdbdbd;
+}
