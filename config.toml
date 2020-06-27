@@ -48,7 +48,7 @@ hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
 showLastmod = false
 taxonomyCloudShuffle = true
-accentColor = "#8B8B8B"
+accentColor = "#b22222"
 hideMainMenu = false
 rtl = false
 
