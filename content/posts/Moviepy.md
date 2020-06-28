@@ -3,7 +3,7 @@ title: "Moviepy"
 date: 2020-06-28T13:09:43+05:30
 tags:
   -
-draft: true
+draft: False
 ---
 ### Magic with Moviepy
 

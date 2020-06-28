@@ -5,6 +5,7 @@
     <link>https://011ivand3r.github.io/tTales/</link>
     <description>Recent content on tTales</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Jun 2020 13:09:43 +0530</lastBuildDate>
     
 	<atom:link href="https://011ivand3r.github.io/tTales/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +18,17 @@
       <guid>https://011ivand3r.github.io/tTales/about/</guid>
       <description>Hi, I&amp;rsquo;m Hans Ollivander (han5 011ivand3r). I am a student and dreamer. As a student, I ask questions and seek for digestible answers. Generally, it is followed by me trying to contradict my brain with wrong answers. And a dreamer, because that&amp;rsquo;s where freedom is.
 I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth.</description>
+    </item>
+    
+    <item>
+      <title>Moviepy</title>
+      <link>https://011ivand3r.github.io/tTales/posts/moviepy/</link>
+      <pubDate>Sun, 28 Jun 2020 13:09:43 +0530</pubDate>
+      
+      <guid>https://011ivand3r.github.io/tTales/posts/moviepy/</guid>
+      <description>Magic with Moviepy How to make vErY sLiCk Harry Potter edits with Python code Cool Video-Editing setupThis setup is not mine. I just wanted a video editing setup picture. So, that’s that. Now let’s talk about what I did and how I did that.
+The end goal is to create a video somewhat like this.
+Step 1 Collect some video clips of the characters belonging to some particular Hogwarts House you want to make a video of.</description>
     </item>
     
     <item>

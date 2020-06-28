@@ -5,9 +5,21 @@
     <link>https://011ivand3r.github.io/tTales/posts/</link>
     <description>Recent content in Posts on tTales</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Jun 2020 13:09:43 +0530</lastBuildDate>
     
 	<atom:link href="https://011ivand3r.github.io/tTales/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Moviepy</title>
+      <link>https://011ivand3r.github.io/tTales/posts/moviepy/</link>
+      <pubDate>Sun, 28 Jun 2020 13:09:43 +0530</pubDate>
+      
+      <guid>https://011ivand3r.github.io/tTales/posts/moviepy/</guid>
+      <description>Magic with Moviepy How to make vErY sLiCk Harry Potter edits with Python code Cool Video-Editing setupThis setup is not mine. I just wanted a video editing setup picture. So, that’s that. Now let’s talk about what I did and how I did that.
+The end goal is to create a video somewhat like this.
+Step 1 Collect some video clips of the characters belonging to some particular Hogwarts House you want to make a video of.</description>
+    </item>
     
   </channel>
 </rss>
