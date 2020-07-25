@@ -16,9 +16,8 @@
       <pubDate>Sat, 25 Jul 2020 13:39:03 +0530</pubDate>
       
       <guid>https://011ivand3r.github.io/tTales/posts/lms/</guid>
-      <description>The first thing whenever one starts learning about Machine Learning algorithms is Linear Regression. But the way people generally blaze through it because it&amp;rsquo;s rudimentary and label it as very intuitive doesn&amp;rsquo;t sit well with me.
-So, in this article we will build a Linear Regression model with the help of probability.
-Regression&amp;rsquo;s idea is to determine the strength of relation between a bunch of independent variables $x = (x_1, x_2, &amp;hellip; x_n)$ and a dependent variable $y$ (i.</description>
+      <description>Whenever one starts learning about Machine Learning algorithms the first thing one learns is Linear Regression. But the way people generally blaze through it because it&amp;rsquo;s rudimentary and label it as very intuitive doesn&amp;rsquo;t sit well with me. So, in this article we will build a Linear Regression model with the help of probability.
+The main idea in a regression problem is to determine the strength of relation between a bunch of independent variables \(x = (x_1, x_2, &amp;hellip; x_n)\) and a dependent variable \(y\) (i.</description>
     </item>
     
   </channel>
