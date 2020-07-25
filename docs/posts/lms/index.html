@@ -185,7 +185,7 @@ $$ y^{(i)} = \theta^Tx^{(i)} + \epsilon^{(i)} $$</p>
 <p><em>So, what is a <strong>Likelihood function?</strong></em></p>
 <p>It is kind of a negative of loss function. But, fundamentally speaking it is the probability distribution function of \(\theta\) where the data remains fixed.</p>
 <p><img src="/tTales/imgs/Likelihood.png" alt=""></p>
-<p>The picture above taken from <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw">Statquest wit Josh Stammer&rsquo;s</a> YouTube channel give the easiest idea of what Likelihood is about. You can check out his <a href="https://www.youtube.com/watch?v=pYxNSUDSFH4">video</a> for more details.</p>
+<p>The picture above taken from <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw">Statquest with Josh Stammer&rsquo;s</a> YouTube channel give the easiest idea of what Likelihood is about. You can check out his <a href="https://www.youtube.com/watch?v=pYxNSUDSFH4">video</a> for more details.</p>
 <p>Since we assume that every training example is <strong>IID</strong>, we can write for n training examples, the Likelihood function is &ndash;</p>
 <p>$$L(\theta) = \prod_{i=1}^{n} p(y^{(i)}|x^{(i)}; \theta)$$
 $$\implies L(\theta) = \prod_{i=1}^{n} \frac{1}{\sqrt{2\pi}\sigma}exp(-\frac{(y^{(i)}- \theta^Tx^{(i)})^2}{2\sigma^2})$$</p>

@@ -50,7 +50,7 @@ It is kind of a negative of loss function. But, fundamentally speaking it is the
 
 ![](/tTales/imgs/Likelihood.png)
 
-The picture above taken from [Statquest wit Josh Stammer's](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) YouTube channel give the easiest idea of what Likelihood is about. You can check out his [video](https://www.youtube.com/watch?v=pYxNSUDSFH4) for more details.
+The picture above taken from [Statquest with Josh Stammer's](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) YouTube channel give the easiest idea of what Likelihood is about. You can check out his [video](https://www.youtube.com/watch?v=pYxNSUDSFH4) for more details.
 
  Since we assume that every training example is **IID**, we can write for n training examples, the Likelihood function is --
 
