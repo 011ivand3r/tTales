@@ -8,7 +8,9 @@ comments: false
 
 Hi, I'm **Hans Ollivander (han5 011ivand3r)**. I am a student and dreamer. As a student, I ask questions and seek for digestible answers. Generally, it is followed by me trying to contradict my brain with wrong answers. And a dreamer, because that's where freedom is.
 
-I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth. I consume books, articles, podcasts and documentaries on them. And talk to people about them (Not as much I want to! So why not get in touch!).
+I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth. I believe technological advancement for making life interplanetary is the only future that's exciting enough. I consume books, articles, podcasts and documentaries on them. And talk to people about them (Not as much I want to! So why not get in touch!).
+
+I am also a football/soccer content creator. I have a [YouTube Channel](https://www.youtube.com/channel/UCYvbqYvGvhXCoIud49NfvKA) where I talk about football tactics.
 
 I enjoy running and playing chess. Although, I'm quite a novice at both. But, I hope to participate in some events in future. And of course, I sleep a lot.
 ___
