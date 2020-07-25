@@ -181,7 +181,7 @@ $$ y^{(i)} = \theta^Tx^{(i)} + \epsilon^{(i)} $$</p>
 <p>Also, \(y^{(i)}\) is a random variable that satisfies Normal distribution with the mean \(\theta^Tx\) and variance \(\sigma^2\). Now if we write the probability distribution of the predicted values \(y\), given \(x\) and the parameter \(\theta\). It is given as follows:</p>
 <p>$$p(y^{(i)}|x^{(i)}; \theta) = \frac{1}{\sqrt{2\pi}\sigma}exp(-\frac{(y^{(i)}- \theta^Tx^{(i)})^2}{2\sigma^2})$$</p>
 <p>The expression on the left means that the distribution of \(y^{(i)}\) given \(x^{(i)}\) is parameterized by \(\theta\).</p>
-<p>In any general course, at this point we get introduced directly to the <strong>Ordinary Least Squares</strong>, and we try to find the most likely \(\theta\) for a given set of \((y^i, x^i)\) pairs by reducing the cost function. But, a more insightful way to understand this phenomena of reducing the cost function is to maximize the <a href="https://en.wikipedia.org/wiki/Likelihood_function"><strong>likelihood function</strong></a>.</p>
+<p>In any general course, at this point we get introduced directly to the <strong>least squares</strong>, and we try to find the most likely \(\theta\) for a given set of \((y^i, x^i)\) pairs by reducing the cost function. But, a more insightful way to understand this phenomena of reducing the cost function is to maximize the <a href="https://en.wikipedia.org/wiki/Likelihood_function"><strong>likelihood function</strong></a>.</p>
 <p><em>So, what is a <strong>Likelihood function?</strong></em></p>
 <p>It is kind of a negative of loss function. But, fundamentally speaking it is the probability distribution function of \(\theta\) where the data remains fixed.</p>
 <p><img src="/tTales/imgs/Likelihood.png" alt=""></p>
@@ -204,7 +204,7 @@ $$\implies l(\theta) = n\log \frac{1}{\sqrt{2\pi}\sigma} - \frac{1}{\sigma^2}\cd
 <ul>
 <li><a href="http://cs229.stanford.edu/syllabus-autumn2018.html">CS229 lecture notes</a></li>
 <li><a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw">Statquest wit Josh Stammer&rsquo;s</a> YouTube channel</li>
-<li>Wikipedia articles about <a href="https://en.wikipedia.org/wiki/Ordinary_least_squares">Ordinary Least Squares</a>, <a href="https://en.wikipedia.org/wiki/Likelihood_function">Likelihood function</a>, <a href="https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables">IID</a></li>
+<li>Wikipedia articles about <a href="https://en.wikipedia.org/wiki/Likelihood_function">Likelihood function</a>, <a href="https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables">IID</a></li>
 </ul>
 
 </div>

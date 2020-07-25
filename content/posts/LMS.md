@@ -42,7 +42,7 @@ $$p(y^{(i)}|x^{(i)}; \theta) = \frac{1}{\sqrt{2\pi}\sigma}exp(-\frac{(y^{(i)}- \
 
 The expression on the left means that the distribution of \\(y^{(i)}\\) given \\(x^{(i)}\\) is parameterized by \\(\theta\\).
 
-In any general course, at this point we get introduced directly to the **Ordinary Least Squares**, and we try to find the most likely \\(\theta\\) for a given set of \\((y^i, x^i)\\) pairs by reducing the cost function. But, a more insightful way to understand this phenomena of reducing the cost function is to maximize the [**likelihood function**](https://en.wikipedia.org/wiki/Likelihood_function).
+In any general course, at this point we get introduced directly to the **least squares**, and we try to find the most likely \\(\theta\\) for a given set of \\((y^i, x^i)\\) pairs by reducing the cost function. But, a more insightful way to understand this phenomena of reducing the cost function is to maximize the [**likelihood function**](https://en.wikipedia.org/wiki/Likelihood_function).
 
 *So, what is a **Likelihood function?***
 
@@ -79,4 +79,4 @@ I hope you found it beautiful as well. Please leave a comment and a reaction. Le
 #### References
 - [CS229 lecture notes](http://cs229.stanford.edu/syllabus-autumn2018.html)
 - [Statquest wit Josh Stammer's](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) YouTube channel
-- Wikipedia articles about [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares), [Likelihood function](https://en.wikipedia.org/wiki/Likelihood_function), [IID](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
+- Wikipedia articles about [Likelihood function](https://en.wikipedia.org/wiki/Likelihood_function), [IID](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
