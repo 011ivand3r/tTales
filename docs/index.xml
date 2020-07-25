@@ -5,7 +5,7 @@
     <link>https://011ivand3r.github.io/tTales/</link>
     <description>Recent content on tTales</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Jun 2020 13:09:43 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 13:39:03 +0530</lastBuildDate>
     
 	<atom:link href="https://011ivand3r.github.io/tTales/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,14 +21,14 @@ I am passionate about human space exploration, machine learning and storytelling
     </item>
     
     <item>
-      <title>Moviepy</title>
-      <link>https://011ivand3r.github.io/tTales/posts/moviepy/</link>
-      <pubDate>Sun, 28 Jun 2020 13:09:43 +0530</pubDate>
+      <title>LMS</title>
+      <link>https://011ivand3r.github.io/tTales/posts/lms/</link>
+      <pubDate>Sat, 25 Jul 2020 13:39:03 +0530</pubDate>
       
-      <guid>https://011ivand3r.github.io/tTales/posts/moviepy/</guid>
-      <description>Magic with Moviepy How to make vErY sLiCk Harry Potter edits with Python code Cool Video-Editing setupThis setup is not mine. I just wanted a video editing setup picture. So, that’s that. Now let’s talk about what I did and how I did that.
-The end goal is to create a video somewhat like this.
-Step 1 Collect some video clips of the characters belonging to some particular Hogwarts House you want to make a video of.</description>
+      <guid>https://011ivand3r.github.io/tTales/posts/lms/</guid>
+      <description>The first thing whenever one starts learning about Machine Learning algorithms is Linear Regression. But the way people generally blaze through it because it&amp;rsquo;s rudimentary and label it as very intuitive doesn&amp;rsquo;t sit well with me.
+So, in this article we will build a Linear Regression model with the help of probability.
+Regression&amp;rsquo;s idea is to determine the strength of relation between a bunch of independent variables $x = (x_1, x_2, &amp;hellip; x_n)$ and a dependent variable $y$ (i.</description>
     </item>
     
     <item>
