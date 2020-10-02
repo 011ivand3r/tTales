@@ -6,7 +6,9 @@ weight: -70
 comments: false
 ---
 
-Hi, **hans durk (han5 durk)** here! I'm a Mechanical Engineering student at IIT Kharagpur, enrolled as **Shubham Hansda** (not han5 durk). Currently, I am taking classes like Systems & Controls and creating a Fantasy Premier League points prediction engine.
+Hi, **hans durk (han5 durk)** here!
+
+I'm a Mechanical Engineering student at IIT Kharagpur, enrolled as **Shubham Hansda** (not han5 durk). Currently, I am taking classes like Systems & Controls and creating a Fantasy Premier League points prediction engine.
 
 I generally divide my time between sleep, schoolwork, coding and making YouTube videos. I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth. I listen to podcasts, read articles, books and watch videos on them. If you want to talk about such stuff, go to the bottom of the page and get in touch!
 
