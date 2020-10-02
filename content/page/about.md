@@ -6,7 +6,7 @@ weight: -70
 comments: false
 ---
 
-Hi, I'm **hans durk (han5 durk)**. I am a student and dreamer. As a student, I ask questions and seek for digestible answers. Generally, it is followed by me trying to contradict my brain with wrong answers. And a dreamer, because that's where freedom is.
+Hi, I'm **hans durk (han5 durk)**. I am a student and dreamer. Being a student, I ask questions and seek for digestible answers. Generally, it is followed by me trying to contradict my brain with wrong answers. And a dreamer, because that's where freedom is.
 
 I generally divide my time between schoolwork, coding and making YouTube videos. Right now I'm enrolled in a Dual Degree course (B.Tech + M.Tech) in Mechanical Engineering at IIT Kharagpur as Shubham Hansda(not han5 durk).
 
