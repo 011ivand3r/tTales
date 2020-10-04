@@ -10,9 +10,9 @@ Hi, **hans durk (han5 durk)** here!
 
 I'm a rather undistinguished Mechanical Engineering student at IIT Kharagpur, enrolled as **Shubham Hansda** (not han5 durk). Currently, I am taking classes like Systems & Controls and creating a Fantasy Premier League points prediction engine.
 
-I generally divide my time between sleep, schoolwork, coding and making YouTube videos. I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth. I listen to podcasts, read articles, books and watch videos on them. If you want to talk about such stuff, go to the bottom of the page and get in touch!
+I generally divide my time between sleep, schoolwork, coding and making YouTube videos. I am passionate about human space exploration, machine learning and storytelling. I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth.
 
-By principle, I'm a student and a dreamer. Being a student, I ask questions and seek for digestible answers. Generally, it is followed by me trying to contradict my brain with mostly wrong answers. And a dreamer, because that's where freedom is.
+My escape is listening to podcasts, reading books and articles, and watching videos on them. If you want to talk about such stuff, go to the bottom of the page and hit me up!
 
 I also make YouTube videos on (football/soccer + data science). Visit my [YouTube Channel](https://www.youtube.com/channel/UCYvbqYvGvhXCoIud49NfvKA) for more.
 
