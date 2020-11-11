@@ -10,7 +10,7 @@ Hi, **hans durk (han5 durk)** here!
 
 I'm a rather undistinguished Mechanical Engineering student at a University, enrolled with my official name(not han5 durk). Currently, I am taking classes like Systems & Controls and creating a Fantasy Premier League points prediction engine.
 
-I generally divide my time between sleep, schoolwork, coding and making YouTube videos. I am passionate about human space exploration, machine learning and storytelling. I listen to podcasts, reading books and articles, and watch videos on them. I also make [YouTube videos](https://www.youtube.com/channel/UCYvbqYvGvhXCoIud49NfvKA) on (football/soccer + data science).
+I generally divide my time between sleep, schoolwork, coding and making YouTube videos. I am passionate about human space exploration, machine learning and storytelling. I listen to podcasts, read books and articles, and watch videos on them. I also make [YouTube videos](https://www.youtube.com/channel/UCYvbqYvGvhXCoIud49NfvKA) on (football/soccer + data science).
 
 I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth. If you share somewhat similar thoughts/interests, go to the bottom of the page and hit me up!
 
