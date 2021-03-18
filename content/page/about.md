@@ -12,7 +12,7 @@ I am a rather undistinguished Mechanical Engineering student at a particular pub
 
 I am a sports analytics enthusiast. I love the way data has powered modern-day sportspersons to break the preconceived limits of the human body and mind. My hope is data will do the same for other spheres of *Homo sapiens* life. I like to follow the news too. Not breaking news, which is itself broken to its core due to the broken business model most media houses follow. I read articles; yes, you guessed right! The articles by people who have reached the intellectual status of human society.
 
-By the way, if you ever come across my brother Mycroft, don't forget to let him know that I adore him!
+By the way, I'll take this opportunity to let you know that I adore my brother Mycroft! He is amazing!
 
 That's all! Thanks for bearing with my narcissism.
 &nbsp;
