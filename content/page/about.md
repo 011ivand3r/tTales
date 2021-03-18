@@ -6,22 +6,18 @@ weight: -70
 comments: false
 ---
 
-Hi, **hans durk (han5 dürk)** here!
+Hallo! Ich heiße Sycroft Holmes.
 
-I'm a rather undistinguished Mechanical Engineering student at an Institute, enrolled with my official name(not han5 dürk). 
+I am a rather undistinguished Mechanical Engineering student at a particular public institute situated in India. My daily life consists primarily of schoolwork. The other goals I work on are my mental health, physical health, and reading books. My reading strategy doesn't allow me to take up random books that come as suggestions from Bookstagrammers or Booktubers. I am the one to choose a topic, then find out suggested books to know more about the subject, finally devouring them until I get an ok idea.
 
-I generally divide my time between sleep, schoolwork, coding and making YouTube videos. I am passionate about human space exploration, machine learning and storytelling. I listen to podcasts, read books and articles, and watch videos on them. I also make [YouTube videos](https://www.youtube.com/channel/UCYvbqYvGvhXCoIud49NfvKA) on (football/soccer + data science).
+I am a sports analytics enthusiast. I love the way data has powered modern-day sportspersons to break the preconceived limits of the human body and mind. My hope is data will do the same for other spheres of *Homo sapiens* life. I like to follow the news too. Not breaking news, which is itself broken to its core due to the broken business model most media houses have. I read articles; yes, you guessed right! The articles by people who have reached the intellectual status of human society.
 
-I often find myself dabbling in the reality of fickleness of carbon-based life on planet Earth. If you share somewhat similar thoughts/interests, go to the bottom of the page and hit me up!
+By the way, if you ever come across my brother Mycroft, don't forget to tell him that I adore him!
 
-Enough about me.
+That's all! Thanks for bearing with my narcissism.
 &nbsp;
 
 ___
 
 \
-**tTales** is created with HUGO. The theme I'm using is [minimo](https://themes.gohugo.io/minimo/). I customized it as per my needs, and it's currently hosted on [GitHub](https://github.com/han5durk/tTales). The reason I chose minimo over other themes is the search bar and obviously the UI :heart_eyes:.
-
-Check out the [HUGO](https://gohugo.io/) site. They have hundreds of exciting themes, and it's built on [Go](https://en.wikipedia.org/wiki/Go_(programming_language)). So, it's [faster](https://gohugo.io/about/what-is-hugo/#how-fast-is-hugo) than other static site generators and easy to set up. Now that I’ve justified my choices, thanks for visiting my website!
-
-Get in touch using any of the links in the footer!
+**tTales** is created with HUGO. The theme I'm using is [minimo](https://themes.gohugo.io/minimo/). I customized it as per my needs, and it's currently hosted on [GitHub](https://github.com/han5durk/tTales).
