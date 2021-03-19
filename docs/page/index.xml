@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on tTales</title>
-    <link>https://han5durk.github.io/tTales/page/</link>
+    <link>https://hanshubham.github.io/tTales/page/</link>
     <description>Recent content in Pages on tTales</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://han5durk.github.io/tTales/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hanshubham.github.io/tTales/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://han5durk.github.io/tTales/about/</link>
+      <link>https://hanshubham.github.io/tTales/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://han5durk.github.io/tTales/about/</guid>
+      <guid>https://hanshubham.github.io/tTales/about/</guid>
       <description>Hallo! Ich heiße Sycroft Holmes.
 I am a rather undistinguished Mechanical Engineering student at a particular public institute situated in India. My daily life consists primarily of schoolwork. The other goals I work on are my mental health, physical health, and reading books. My reading strategy doesn&amp;rsquo;t allow me to take up random books that come as suggestions from Bookstagrammers or Booktubers. I am the one to choose a topic, then find out suggested books to know more about the subject, finally devouring them until I get an ok idea.</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://han5durk.github.io/tTales/search/</link>
+      <link>https://hanshubham.github.io/tTales/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://han5durk.github.io/tTales/search/</guid>
+      <guid>https://hanshubham.github.io/tTales/search/</guid>
       <description></description>
     </item>
     

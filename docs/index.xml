@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tTales</title>
-    <link>https://han5durk.github.io/tTales/</link>
+    <link>https://hanshubham.github.io/tTales/</link>
     <description>Recent content on tTales</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 25 Jul 2020 13:39:03 +0530</lastBuildDate>
     
-	<atom:link href="https://han5durk.github.io/tTales/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hanshubham.github.io/tTales/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://han5durk.github.io/tTales/about/</link>
+      <link>https://hanshubham.github.io/tTales/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://han5durk.github.io/tTales/about/</guid>
+      <guid>https://hanshubham.github.io/tTales/about/</guid>
       <description>Hallo! Ich heiße Sycroft Holmes.
 I am a rather undistinguished Mechanical Engineering student at a particular public institute situated in India. My daily life consists primarily of schoolwork. The other goals I work on are my mental health, physical health, and reading books. My reading strategy doesn&amp;rsquo;t allow me to take up random books that come as suggestions from Bookstagrammers or Booktubers. I am the one to choose a topic, then find out suggested books to know more about the subject, finally devouring them until I get an ok idea.</description>
     </item>
     
     <item>
       <title>Finally Linear Regression is beautiful</title>
-      <link>https://han5durk.github.io/tTales/posts/lms/</link>
+      <link>https://hanshubham.github.io/tTales/posts/lms/</link>
       <pubDate>Sat, 25 Jul 2020 13:39:03 +0530</pubDate>
       
-      <guid>https://han5durk.github.io/tTales/posts/lms/</guid>
+      <guid>https://hanshubham.github.io/tTales/posts/lms/</guid>
       <description>Whenever one starts learning about Machine Learning algorithms the first thing one learns is Linear Regression. But the way people generally blaze through it because it&amp;rsquo;s rudimentary and label it as very intuitive doesn&amp;rsquo;t sit well with me. So, in this article we will build a Linear Regression model with the help of probability.
 The main idea in a regression problem is to determine the strength of relation between a bunch of independent variables \(x = (x_1, x_2, &amp;hellip; x_n)\) and a dependent variable \(y\) (i.</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://han5durk.github.io/tTales/search/</link>
+      <link>https://hanshubham.github.io/tTales/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://han5durk.github.io/tTales/search/</guid>
+      <guid>https://hanshubham.github.io/tTales/search/</guid>
       <description></description>
     </item>
     
